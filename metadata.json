@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader Pro",
+  "description": "Manage, inspect, and save authorized video media on Android with official YouTube API metadata, Storage Access Framework, and pause/resume downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

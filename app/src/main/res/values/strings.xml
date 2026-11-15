@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Video Downloader Pro</string>
+    <string name="nav_analyze">Analyze</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="dashboard_subtitle">Official YouTube &amp; Authorized Media Manager</string>
+    <string name="url_input_label">Video or YouTube URL</string>
+    <string name="url_input_placeholder">Paste YouTube video, Short, or authorized MP4 URL</string>
+    <string name="action_paste">Paste Link</string>
+    <string name="action_analyze">Analyze Video</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_try_cc_sample">Try CC-BY Sample</string>
+
+    <string name="youtube_official_notice_title">Official YouTube Compliance</string>
+    <string name="youtube_official_notice_body">YouTube does not provide a public third-party API for raw MP4 stream downloads. Watch or save offline directly inside the official YouTube app, or use the Creator Export workflow below for videos you own.</string>
+    <string name="action_open_youtube">Open in YouTube</string>
+    <string name="creator_export_title">Creator-Owned Export Workflow</string>
+    <string name="creator_export_subtitle">Own this video? Export via official Google services or attach your authorized creator media link.</string>
+    <string name="action_youtube_studio">YouTube Studio</string>
+    <string name="action_google_takeout">Google Takeout</string>
+    <string name="action_import_exported">Import Exported MP4</string>
+    <string name="action_attach_creator_url">Attach Authorized URL</string>
+
+    <string name="quality_section_title">Available Authorized Qualities</string>
+    <string name="action_start_download">Download Authorized File</string>
+
+    <string name="downloads_title">Download Manager</string>
+    <string name="downloads_empty_title">No Active Downloads</string>
+    <string name="downloads_empty_subtitle">Authorized media downloads you start will show live speed, size, and pause/resume controls here.</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="history_title">Download History</string>
+    <string name="history_empty_title">Your Vault is Empty</string>
+    <string name="history_empty_subtitle">Completed authorized downloads and imported creator exports appear here for playback and sharing.</string>
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_confirm_title">Delete Downloaded Video?</string>
+    <string name="delete_confirm_message">Remove this item from your download history and delete the saved file from device storage if accessible?</string>
+    <string name="action_confirm_delete">Delete</string>
+    <string name="action_dismiss">Cancel</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_storage">Download Storage</string>
+    <string name="settings_about">About &amp; Support</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="help_support_title">Help &amp; Support</string>
+</resources>
